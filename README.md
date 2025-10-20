@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @KC-univ
-- 👀 I’m interested in Machine learning, deep learning and data science.
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data science projects.
-- 📫 How to reach me khalilchouikri@gmail.com
+- 👋 Hi, I’m @KC-univ  
+- 🎓 I’m a PhD student at Aix-Marseille University, working on ship power prediction and maritime engineering applications.  
+- 👀 I’m interested in Machine Learning, Deep Learning, Data Science, and hybrid modeling for engineering problems.  
+- 🌱 I’m currently exploring predictive modeling, seakeeping analysis, and hybrid semi-parametric methods.  
+- 💞️ I’m open to collaborations on data-driven research projects in engineering, physics, and applied sciences.  
+- 📫 You can reach me at: khalilchouikri@gmail.com  
 
 <!---
 KC-univ/KC-univ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+--->  
