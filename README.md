@@ -39,18 +39,24 @@ Portfolio: https://www.self.so/khalil-chouikri-y38xd5
 
 ### Development
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,react" />
+  <img src="https://skillicons.dev/icons?i=fastapi,react,cpp" />
 </p>
 
 ### DevOps & MLOps
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,github,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
 </p>
 
 ### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
+
+### IDE
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,clion,sublime" />
+</p>
+
 
 ---
 
