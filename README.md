@@ -61,7 +61,13 @@ Portfolio: https://www.self.so/khalil-chouikri-y38xd5
 ![Stats](https://github-readme-stats.vercel.app/api?username=KC-univ&show_icons=true&theme=dark&bg_color=00000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KC-univ&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true)
 
+</div>
 
+### Streak stats
+
+<div align="center">
+  ![Streak](https://streak-stats.demolab.com/?user=KC-univ&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
+  https://streak-stats.demolab.com/?user=KC-univ&theme=tokyonight&hide_border=true&background=00000000
 
 </div>
 
