@@ -5,7 +5,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Hello! I'm **Khalil Chouikri**, a PhD researcher at **Aix-Marseille University** working at the intersection of  
 **machine learning, maritime engineering, and physics-based modeling**.
@@ -14,16 +14,16 @@ My work focuses on **ship power prediction**, **hybrid semi-parametric models**,
 
 I love transforming complex engineering problems into **impactful, data-driven solutions**.
 
-### 🔍 What I Do  
+### What I Do  
 I specialise in:
 
-- 🚢 Ship power prediction & maritime data modeling  
-- 🤖 ML/DL for engineering and applied physics  
-- ⚡ Hybrid physics-guided learning & semi-parametric models  
-- 🌊 Seakeeping analysis, resistance modeling & CFD-based insights  
-- 📊 Scientific computing, model evaluation & engineering data pipelines  
+- Ship power prediction & maritime data modeling  
+- ML/DL for engineering and applied physics  
+- Hybrid physics-guided learning & semi-parametric models  
+- Seakeeping analysis, resistance modeling & CFD-based insights  
+- Scientific computing, model evaluation & engineering data pipelines  
 
-### 🤝 Let’s Connect  
+### Let’s Connect  
 Always open to research collaborations in **engineering, physics, ML/DL**, and applied sciences.  
 You can reach me at **khalilchouikri@gmail.com**  
 Portfolio: https://www.self.so/khalil-chouikri-y38xd5
@@ -32,29 +32,29 @@ Portfolio: https://www.self.so/khalil-chouikri-y38xd5
 
 ## 🧠 Skills
 
-### 🚀 AI / ML
+### AI / ML
 <p>
   <img src="https://skillicons.dev/icons?i=python,pyTorch,tensorflow,sklearn" />
 </p>
 
-### 🌐 Development
+### Development
 <p>
-  <img src="https://skillicons.dev/icons?i=django,fastapi,js" />
+  <img src="https://skillicons.dev/icons?i=fastapi,react" />
 </p>
 
-### ⚙️ DevOps & MLOps
+### DevOps & MLOps
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,github,aws,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,github,linux" />
 </p>
 
-### 🗄 Databases
+### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
 ---
 
-## 📊 Statistics
+## Statistics
 
 <div align="center">
 
@@ -66,7 +66,7 @@ Portfolio: https://www.self.so/khalil-chouikri-y38xd5
 
 ---
 
-## 🌍 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://www.self.so/khalil-chouikri-y38xd5"><img src="https://skillicons.dev/icons?i=web" /></a>
