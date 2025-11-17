@@ -30,11 +30,11 @@ Portfolio: https://www.self.so/khalil-chouikri-y38xd5
 
 ---
 
-## 🧠 Skills
+## Skills
 
 ### AI / ML
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pyTorch,tensorflow,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
 </p>
 
 ### Development
