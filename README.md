@@ -58,9 +58,10 @@ Portfolio: https://www.self.so/khalil-chouikri-y38xd5
 
 <div align="center">
 
-![Khalil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KC-univ&show_icons=true&theme=dark&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=KC-univ&show_icons=true&theme=dark&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KC-univ&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KC-univ&layout=compact&theme=dark)
+
 
 </div>
 
