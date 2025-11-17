@@ -66,10 +66,15 @@ Portfolio: https://www.self.so/khalil-chouikri-y38xd5
 ### Streak stats
 
 <div align="center">
-  ![Streak](https://streak-stats.demolab.com/?user=KC-univ&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
-  https://streak-stats.demolab.com/?user=KC-univ&theme=tokyonight&hide_border=true&background=00000000
-
+  <img src="https://streak-stats.demolab.com/?user=KC-univ&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
 </div>
+
+### Github metrics
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KC-univ/KC-univ/main/github-metrics.svg" alt="GitHub Metrics" />
+</div>
+
 
 ---
 
