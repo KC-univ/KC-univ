@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/KC-univ/branding/main/banner.jpg" alt="banner" />
+<img src="https://raw.githubusercontent.com/KC-univ/main/banner.jpg" alt="banner" />
 
 <h1 align="center">I'm KHALIL CHOUIKRI</h1>
 <h3 align="center">Machine Learning • Deep Learning • Maritime Engineering</h3>
