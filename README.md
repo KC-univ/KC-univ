@@ -87,7 +87,7 @@ Portfolio: https://www.self.so/khalil-chouikri-y38xd5
 ## Connect With Me
 
 <p align="left">
-  <a href="https://www.self.so/khalil-chouikri-y38xd5"><img src="https://skillicons.dev/icons?i=web" /></a>
+  <a href="https://www.self.so/khalil-chouikri-y38xd5"><img src="https://skillicons.dev/icons?i=html" /></a>
   <a href="mailto:khalilchouikri@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.linkedin.com/in/khalil-chouikri-a0065a1a6/""><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
