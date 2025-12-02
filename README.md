@@ -76,7 +76,7 @@ Portfolio: https://www.self.so/khalil-chouikri-y38xd5
 ### GitHub metrics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KC-univ/KC-univ/main/github-metrics.svg" alt="GitHub Metrics" />
+  <div align="center"> <img src="https://raw.githubusercontent.com/KC-univ/KC-univ/main/github-metrics.svg" alt="GitHub Metrics" /> </div>"
 </div>
 
 
