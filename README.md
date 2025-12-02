@@ -63,10 +63,8 @@ Portfolio: https://www.self.so/khalil-chouikri-y38xd5
 ## Statistics
 
 <div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=KC-univ&show_icons=true&theme=dark&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KC-univ&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=KC-univ&show_icons=true&theme=dark&bg_color=00000000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KC-univ&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true" alt="Top Languages" />
 </div>
 
 ### Streak stats
@@ -75,7 +73,7 @@ Portfolio: https://www.self.so/khalil-chouikri-y38xd5
   <img src="https://streak-stats.demolab.com/?user=KC-univ&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
 </div>
 
-### Github metrics
+### GitHub metrics
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/KC-univ/KC-univ/main/github-metrics.svg" alt="GitHub Metrics" />
