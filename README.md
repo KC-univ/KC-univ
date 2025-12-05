@@ -38,9 +38,6 @@ Portfolio: https://www.self.so/khalil-chouikri-y38xd5
   <img src="https://skills.syvixor.com/api/icons?i=jupyter"/>
 </p>
 
-### Notebooks
-
-
 ### Development
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,react,cpp" />
