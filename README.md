@@ -62,10 +62,11 @@ Portfolio: https://www.self.so/khalil-chouikri-y38xd5
 ---
 
 ## Statistics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KC-univ&show_icons=true&theme=dark&bg_color=00000000&cache_seconds=86400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KC-univ&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <img src="profile-summary-card-output/0-profile-details.svg" alt="Profile Details" />
+  <img src="profile-summary-card-output/1-repos-per-language.svg" alt="Repos Per Language" />
+  <img src="profile-summary-card-output/2-most-commit-language.svg" alt="Most Commit Language" />
+  <img src="profile-summary-card-output/3-stats.svg" alt="Stats" />
 </div>
 
 ### Streak stats
