@@ -69,7 +69,7 @@ Portfolio: https://www.self.so/khalil-chouikri-y38xd5
 </div>
 
 <div align="center">
-  <img src="profile-summary-card-output/0-profile-details.svg" alt="Profile Details" />
+  <img src="profile-summary-card-output/gotham/0-profile-details.svg" alt="Profile Details" />
   <img src="profile-summary-card-output/1-repos-per-language.svg" alt="Repos Per Language" />
   <img src="profile-summary-card-output/2-most-commit-language.svg" alt="Most Commit Language" />
   <img src="profile-summary-card-output/3-stats.svg" alt="Stats" />
