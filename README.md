@@ -70,8 +70,8 @@ Portfolio: https://www.self.so/khalil-chouikri-y38xd5
 
 <p align="center">
   <img src="profile-summary-card-output/gotham/0-profile-details.svg" alt="Profile Details" width="50%" />
-  <img src="profile-summary-card-output/gotham/1-repos-per-language.svg" alt="Repos Per Language" width="25%" />
-  <img src="profile-summary-card-output/gotham/2-most-commit-language.svg" alt="Most Commit Language" width="25%" />
+  <img src="profile-summary-card-output/gotham/1-repos-per-language.svg" alt="Repos Per Language" width="50%" />
+  <img src="profile-summary-card-output/gotham/2-most-commit-language.svg" alt="Most Commit Language" width="50%" />
 </p>
 
 ### Streak stats
