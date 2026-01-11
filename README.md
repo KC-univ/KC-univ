@@ -63,30 +63,28 @@ Portfolio: https://www.self.so/khalil-chouikri-y38xd5
 
 ## Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KC-univ&show_icons=true&theme=dark&bg_color=00000000&cache_seconds=86400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KC-univ&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true&cache_seconds=86400" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KC-univ&show_icons=true&theme=dark&bg_color=00000000&cache_seconds=86400" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KC-univ&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true&cache_seconds=86400" alt="Top Languages" width="48%" />
+</p>
 
-<div align="center">
-  <img src="profile-summary-card-output/gotham/0-profile-details.svg" alt="Profile Details" />
-  <img src="profile-summary-card-output/gotham/1-repos-per-language.svg" alt="Repos Per Language" />
-  <img src="profile-summary-card-output/gotham/2-most-commit-language.svg" alt="Most Commit Language" />
-  <img src="profile-summary-card-output/gotham/3-stats.svg" alt="Stats" />
-</div>
+<p align="center">
+  <img src="profile-summary-card-output/gotham/0-profile-details.svg" alt="Profile Details" width="32%" />
+  <img src="profile-summary-card-output/gotham/1-repos-per-language.svg" alt="Repos Per Language" width="32%" />
+  <img src="profile-summary-card-output/gotham/2-most-commit-language.svg" alt="Most Commit Language" width="32%" />
+</p>
 
 ### Streak stats
 
-<div align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=KC-univ&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
-</div>
+</p>
 
-### GitHub metrics
+### GitHub Metrics
 
-<div align="center">
-  <div align="center"> <img src="https://raw.githubusercontent.com/KC-univ/KC-univ/main/github-metrics.svg" alt="GitHub Metrics" /> </div>
-</div>
-
+<p align="center">
+  <img src="https://metrics.lecoq.io/KC-univ?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config_timezone=UTC" alt="GitHub Metrics" />
+</p>
 
 ---
 
