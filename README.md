@@ -69,7 +69,7 @@ Portfolio: https://www.self.so/khalil-chouikri-y38xd5
 </p>
 
 <p align="center">
-  <img src="profile-summary-card-output/gotham/0-profile-details.svg" alt="Profile Details" width="80%" />
+  <img src="profile-summary-card-output/gotham/0-profile-details.svg" alt="Profile Details" width="70%" />
   <!-- <img src="profile-summary-card-output/gotham/1-repos-per-language.svg" alt="Repos Per Language" width="50%" />
   <img src="profile-summary-card-output/gotham/2-most-commit-language.svg" alt="Most Commit Language" width="50%" /> -->
 </p>
@@ -77,7 +77,7 @@ Portfolio: https://www.self.so/khalil-chouikri-y38xd5
 ### Streak stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KC-univ&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=KC-univ&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak"  width="70%" />
 </p>
 
 ### GitHub Metrics
