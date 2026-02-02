@@ -1,3 +1,5 @@
+**There are 60% pf total repositories that private, because they contain confidential data.**
+
 <img src="https://github.com/KC-univ/KC-univ/blob/main/banner.jpg" alt="banner" />
 
 <h1 align="center">I'm KHALIL CHOUIKRI</h1>
