@@ -1,6 +1,5 @@
-<span style="color:red; font-weight:bold;">
-Approximately 60% of the total repositories are private, as they contain confidential and sensitive data.
-</span>
+<span style="color:red"><strong>Approximately 60% of the total repositories are private, as they contain confidential and sensitive data.</strong></span>
+
 
 <img src="https://github.com/KC-univ/KC-univ/blob/main/banner.jpg" alt="banner" />
 
