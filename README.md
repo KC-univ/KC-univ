@@ -86,6 +86,12 @@ Always open to research collaborations in **engineering, physics, ML/DL**, and a
 ## GitHub Statistics
 
 <p align="center">
+  <img src="profile-summary-card-output/gotham/0-profile-details.svg" alt="Profile Details" width="100%" />
+  <!-- <img src="profile-summary-card-output/gotham/1-repos-per-language.svg" alt="Repos Per Language" width="50%" />
+  <img src="profile-summary-card-output/gotham/2-most-commit-language.svg" alt="Most Commit Language" width="50%" /> -->
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KC-univ&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KC-univ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="49%" />
 </p>
