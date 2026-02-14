@@ -7,7 +7,7 @@
 
 ---
 
-## 👨About Me
+## About Me
 
 Hello! I'm **Khalil Chouikri**, a PhD researcher at **Aix-Marseille University** working at the intersection of **machine learning, maritime engineering, and physics-based modeling**.
 
@@ -96,7 +96,7 @@ Always open to research collaborations in **engineering, physics, ML/DL**, and a
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/khalil-chouikri-a0065a1a6/" target="_blank">
