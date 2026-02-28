@@ -126,5 +126,3 @@ Always open to research collaborations in **engineering, physics, ML/DL**, and a
 </p>
 
 ---
-
-<!-- Proudly created with passion for engineering and ML -->
