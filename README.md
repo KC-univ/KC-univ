@@ -95,8 +95,11 @@ Always open to research collaborations in **engineering, physics, ML/DL**, and a
   <img src="https://github-readme-stats.vercel.app/api?username=KC-univ&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KC-univ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="49%" />
 </p> -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KC-univ&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KC-univ&layout=compact&theme=dark)
+
+[![](https://raw.githubusercontent.com/KC-univ/KC-univ/main/profile-summary-card-output/buefy/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/KC-univ/KC-univ/main/profile-summary-card-output/buefy/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/KC-univ/KC-univ/main/profile-summary-card-output/buefy/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/KC-univ/KC-univ/main/profile-summary-card-output/buefy/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/KC-univ/KC-univ/main/profile-summary-card-output/buefy/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=KC-univ&theme=dark&hide_border=false" alt="GitHub Streak" width="70%" />
