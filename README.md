@@ -99,16 +99,8 @@ Always open to research collaborations in **engineering, physics, ML/DL**, and a
   <img src="profile-summary-card-output/buefy/4-productive-time.svg" width="49%" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KC-univ&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KC-univ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="49%" />
-</p> -->
-
-
-
-
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=KC-univ&theme=dark&hide_border=false" alt="GitHub Streak" width="70%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=KC-univ&theme=dark&hide_border=false" alt="GitHub Streak" width="100%" />
 </p>
 
 ---
