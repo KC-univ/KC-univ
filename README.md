@@ -1,10 +1,6 @@
-<p>
-  <span style="color:#ff0000;">
-    <strong>Approximately 60% of the total repositories are private, as they contain confidential and sensitive data.</strong>
-  </span>
-</p>
+<span style="color:red"><strong>Approximately 60% of the total repositories are private, as they contain confidential and sensitive data.</strong></span> 
 
-<img src="https://raw.githubusercontent.com/KC-univ/KC-univ/main/banner.jpg" width="300">
+<img src="https://github.com/KC-univ/KC-univ/blob/main/banner.jpg" alt="banner" />
 
 <h1 align="center">Hi, I'm KHALIL CHOUIKRI</h1>
 <h3 align="center">Machine Learning • Deep Learning • Maritime Engineering</h3>
