@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/KC-univ/KC-univ/blob/main/banner.jpg"
+  <img src="https://raw.githubusercontent.com/KC-univ/KC-univ/main/banner.jpg"
        alt="banner"
        width="150"
-       style="border-radius:50%;" />
+       style="border-radius:100%;" />
 </p>
 
 <h1 align="center">Hi, I'm KHALIL CHOUIKRI</h1>
