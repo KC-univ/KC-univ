@@ -4,12 +4,7 @@
   </span>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KC-univ/KC-univ/main/banner.jpg"
-       alt="banner"
-       width="150"
-       style="border-radius:100%;" />
-</p>
+<img src="https://raw.githubusercontent.com/KC-univ/KC-univ/main/banner.jpg" width="300">
 
 <h1 align="center">Hi, I'm KHALIL CHOUIKRI</h1>
 <h3 align="center">Machine Learning • Deep Learning • Maritime Engineering</h3>
