@@ -3,7 +3,7 @@
 <img src="https://github.com/KC-univ/KC-univ/blob/main/banner.jpg" alt="banner" />
 
 <h1 align="center">Hi, I'm KHALIL CHOUIKRI</h1>
-<h3 align="center">Machine Learning • Deep Learning • Maritime Engineering</h3>
+<h3 align="center">Machine Learning • Deep Learning • Backend Developement • Maritime Engineering</h3>
 
 ---
 
