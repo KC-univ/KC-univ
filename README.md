@@ -3,32 +3,45 @@
 <img src="https://github.com/KC-univ/KC-univ/blob/main/banner.jpg" alt="banner" />
 
 <h1 align="center">Hi, I'm KHALIL CHOUIKRI</h1>
-<h3 align="center">Machine Learning • Deep Learning • Backend Developement • Maritime Engineering</h3>
+<h3 align="center">Machine Learning • Deep Learning • Geospatial & Environmental AI • Backend Development • Maritime Engineering</h3>
 
 ---
 
 ## About Me
 
-Hello! I'm **Khalil Chouikri**, a PhD researcher at **Aix-Marseille University** working at the intersection of **machine learning, maritime engineering, and physics-based modeling**.
+Hello! I'm **Khalil Chouikri**, a PhD researcher at **Aix-Marseille University** and a **Data Scientist at Green PRAXIS**, working at the intersection of **machine learning, physics-based modeling, and applied environmental & maritime engineering**.
 
-My work focuses on **ship power prediction**, **hybrid semi-parametric models**, and integrating **physics + AI** to push predictive performance beyond traditional approaches. I love transforming complex engineering problems into **impactful, data-driven solutions**.
+My research focuses on **ship power prediction**, **hybrid semi-parametric models**, and integrating **physics + AI** to push predictive performance beyond traditional approaches. In parallel, at Green PRAXIS I apply that same hybrid modeling mindset to **biodiversity and natural-asset assessment** — habitat mapping, species-presence probability, carbon and ecological indicators, and risk modeling for land and infrastructure at portfolio scale.
 
-### What I Do  
+The common thread: turning complex physical and ecological systems into **scalable, auditable, data-driven decisions**.
+
+### What I Do
 
 I specialize in:
 
-- Ship power prediction & maritime data modeling  
-- ML/DL for engineering and applied physics  
-- Hybrid physics-guided learning & semi-parametric models  
-- Seakeeping analysis, resistance modeling & CFD-based insights  
-- Scientific computing, model evaluation & engineering data pipelines  
+- Ship power prediction & maritime data modeling
+- Geospatial ML/DL for environmental diagnostics & habitat mapping
+- Biodiversity, carbon, and ecological-risk modeling
+- Hybrid physics-guided learning & semi-parametric models
+- Seakeeping analysis, resistance modeling & CFD-based insights
+- Remote sensing, GIS pipelines & raster/vector data processing
+- Scientific computing, model evaluation & reproducible engineering data pipelines
+- Backend services & APIs to deploy models into production
 
-### Let's Connect  
+### Experience
 
-Always open to research collaborations in **engineering, physics, ML/DL**, and applied sciences.
+**Data Scientist — Green PRAXIS** *(2026 – present)*
+Industrializing biodiversity and natural-asset assessment by combining machine learning, geospatial data, and physics-based modeling. Building production-grade geospatial ML pipelines and the backend services that serve them.
+
+**PhD Researcher — Aix-Marseille University**
+Hybrid physics-guided machine learning for ship power prediction and maritime performance modeling.
+
+### Let's Connect
+
+Always open to research collaborations in **engineering, environmental science, geospatial ML/DL, physics**, and applied data science.
 
 **Email:** [khalilchouikri@gmail.com](mailto:khalilchouikri@gmail.com)  
-**Portfolio:** [khalil-chouikri.self.so](https://www.self.so/khalil-chouikri-y38xd5)  
+**Work GitHub:** [@GPkhalil](https://github.com/gpkhalil)  
 **LinkedIn:** [khalil-chouikri](https://linkedin.com/in/khalil-chouikri-a0065a1a6/)
 
 ---
@@ -46,6 +59,14 @@ Always open to research collaborations in **engineering, physics, ML/DL**, and a
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
+### Geospatial & Remote Sensing
+
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=python&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge&logo=gdal&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Rasterio](https://img.shields.io/badge/Rasterio-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Development & Frameworks
 
@@ -66,6 +87,8 @@ Always open to research collaborations in **engineering, physics, ML/DL**, and a
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud Storage](https://img.shields.io/badge/Google%20Cloud%20Storage-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
 ### Databases
 
@@ -114,8 +137,8 @@ Always open to research collaborations in **engineering, physics, ML/DL**, and a
   <a href="mailto:khalilchouikri@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.self.so/khalil-chouikri-y38xd5" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  <a href="https://github.com/gpkhalil" target="_blank">
+    <img src="https://img.shields.io/badge/Work%20GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Work GitHub"/>
   </a>
 </p>
 
@@ -124,6 +147,3 @@ Always open to research collaborations in **engineering, physics, ML/DL**, and a
 <!-- <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=KC-univ&icon=0&color=0" alt="Profile Views" />
 </p> -->
-
----
-
